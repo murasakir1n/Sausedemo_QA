@@ -1,9 +1,10 @@
-## BUG-01. Вход под performance_glitch_user занимает ~5 с (у standard_user ~0,5 с)
+## BUG-01. Вход под performance_glitch_user занимает ~5 с (у standard_user ~0,1  с)
 
-**Серьёзность (severity):** Minor
-**Окружение:** Chrome 157, macOS 26.6.2
-**Пользователь:** `performance_glitch_user`
-**Найден в:** чек-лист логина, проверка 4
+**Серьёзность (severity):** Minor. 
+
+**Окружение:** Chrome 157, macOS 26.6.2. 
+
+**Найден в:** Чек-лист логина, проверка 4. 
 
 **Шаги воспроизведения:**
 1. Открыть saucedemo.com.
@@ -15,3 +16,6 @@
 **Ожидаемый результат:** вход занимает не более 2 с, сопоставимо с `standard_user` (замер: 0.1 с).
 
 **Вложения:** [видео](attachments/bug-01-slow-login.mp4)
+
+
+
