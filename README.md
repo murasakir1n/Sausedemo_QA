@@ -8,7 +8,7 @@
 * **Объект тестирования:** Web-приложение Swag Labs (`saucedemo.com`)
 * **ОС и браузер:** macOS 26.6.2, Google Chrome 157
 * **Формат документации:** Markdown
-* **Инструменты:** Chrome DevTools, Git / GitHub
+
 
 ---
 
