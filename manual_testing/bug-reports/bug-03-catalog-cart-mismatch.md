@@ -17,6 +17,6 @@
 
 **Ожидаемый результат:** Цены и названия товара в каталоге идентичны с корзиной 
 
-**Вложения:** ![Скриншот каталога](screenshots/bug-03-catalog.png)
+**Вложения:** ![Скриншот каталога](attachments/screenshots/bug-03-catalog.png)
 
-![Скриншот корзины](screenshots/bug-03-cart.png)
+![Скриншот корзины](attachments/screenshots/bug-03-cart.png)

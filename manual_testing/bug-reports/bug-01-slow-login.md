@@ -15,7 +15,7 @@
 
 **Ожидаемый результат:** вход занимает не более 2 с, сопоставимо с `standard_user` (замер: 0.1 с).
 
-**Вложения:** [видео](attachments/bug-01-slow-login.mp4)
+**Вложения:** [видео](attachments/videos/bug-01-slow-login.mp4)
 
 
 

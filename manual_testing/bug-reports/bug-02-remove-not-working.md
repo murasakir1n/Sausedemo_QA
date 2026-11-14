@@ -17,4 +17,4 @@
 
 **Ожидаемый результат:** Кнопка Remove меняется на Add to cart, счетчик меняется, товар пропадает из корзины
 
-**Вложения:** [видео](attachments/bug-02-remove-not-working.mp4)
+**Вложения:** [видео](attachments/videos/bug-02-remove-not-working.mp4)

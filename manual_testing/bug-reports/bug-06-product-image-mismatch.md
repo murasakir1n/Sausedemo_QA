@@ -18,4 +18,4 @@
 
 **Ожидаемый результат:** Картинка товара соответствует названию товара.
 
-**Вложения:** [пользователь problem_user](screenshots/bug-06-product-image-mismatch.png), [пользователь visual_user](screenshots/visual-user-catalog.png)
+**Вложения:** [пользователь problem_user](attachments/screenshots/bug-06-product-image-mismatch.png), [пользователь visual_user](attachments/screenshots/visual-user-catalog.png)

@@ -18,4 +18,4 @@
 
 **Ожидаемый результат:** Карточки товара должна соответствовать товару в каталоге.
 
-**Вложения:** [видео](attachments/bug-05-product-title-error.mp4)
+**Вложения:** [видео](attachments/videos/bug-05-product-title-error.mp4)

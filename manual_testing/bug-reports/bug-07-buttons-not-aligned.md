@@ -18,4 +18,4 @@
 
 **Ожидаемый результат:** Кнопки должны быть выровнены.
 
-**Вложения:** [пользователь visual_user](screenshots/visual-user-catalog.png)
+**Вложения:** [пользователь visual_user](attachments/screenshots/visual-user-catalog.png)
